@@ -1,0 +1,74 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Angular2",
+      "description": "AngularJS 2.0 is a solution for rapid front-end development. It is easy to grasp and enables one to develop robust applications for projects of any scale. Part of its popularity is its ability to make static Web pages more dynamic thus allowing web designers to add more tools. Organisations are seeing the benefits of adopting Angular js and this has increased the demand for Angular experts.We understand this and hence have designed the Angular JS 2.0 with TypeScript course that will allow you to grasp all the fundamentals of this Angular framework developed by Google. ‘Single Page Apps’ (SPAs) are extremely popular and you will receive practical knowledge and hands on experience needed to develop these complex applications using Angular JS 2.0 with TypeScript.  TypeScript, as the name suggests, is a superset of JavaScript, but is more advanced and allows for easier code fixing and is most suited for large projects due to its Type safety and declarative code features. In this course, you will start from the basics of Angular Js such as Forms, Pipes, and CSS Styling and move on to more complex fundamentals of Routing, Directives, Multi-threaded Web and exercises on how to build end-to-end, working applications.",
+      "summary": "Learn how to build Single Page Applications, including the basics of Angular 2.0, versions, tools, data binding and filtering",
+      "feature": "20 hours of Instructor-led classes Grasp basic and advanced concepts Learn by Doing",
+      "type": "ONLINE_GROUP",
+      "logo": "",
+      "price": 500,
+      "authorId": 2
+    },
+    {
+      "id": 2,
+      "title": "Angular2",
+      "description": "AngularJS 2.0 is a solution for rapid front-end development. It is easy to grasp and enables one to develop robust applications for projects of any scale. Part of its popularity is its ability to make static Web pages more dynamic thus allowing web designers to add more tools. Organisations are seeing the benefits of adopting Angular js and this has increased the demand for Angular experts.We understand this and hence have designed the Angular JS 2.0 with TypeScript course that will allow you to grasp all the fundamentals of this Angular framework developed by Google. ‘Single Page Apps’ (SPAs) are extremely popular and you will receive practical knowledge and hands on experience needed to develop these complex applications using Angular JS 2.0 with TypeScript.  TypeScript, as the name suggests, is a superset of JavaScript, but is more advanced and allows for easier code fixing and is most suited for large projects due to its Type safety and declarative code features. In this course, you will start from the basics of Angular Js such as Forms, Pipes, and CSS Styling and move on to more complex fundamentals of Routing, Directives, Multi-threaded Web and exercises on how to build end-to-end, working applications.",
+      "summary": "Learn how to build Single Page Applications, including the basics of Angular 2.0, versions, tools, data binding and filtering",
+      "feature": "20 hours of Instructor-led classes Grasp basic and advanced concepts Learn by Doing",
+      "type": "ONLINE_GROUP",
+      "logo": "",
+      "price": 500,
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "title": "Angular2",
+      "description": "AngularJS 2.0 is a solution for rapid front-end development. It is easy to grasp and enables one to develop robust applications for projects of any scale. Part of its popularity is its ability to make static Web pages more dynamic thus allowing web designers to add more tools. Organisations are seeing the benefits of adopting Angular js and this has increased the demand for Angular experts.We understand this and hence have designed the Angular JS 2.0 with TypeScript course that will allow you to grasp all the fundamentals of this Angular framework developed by Google. ‘Single Page Apps’ (SPAs) are extremely popular and you will receive practical knowledge and hands on experience needed to develop these complex applications using Angular JS 2.0 with TypeScript.  TypeScript, as the name suggests, is a superset of JavaScript, but is more advanced and allows for easier code fixing and is most suited for large projects due to its Type safety and declarative code features. In this course, you will start from the basics of Angular Js such as Forms, Pipes, and CSS Styling and move on to more complex fundamentals of Routing, Directives, Multi-threaded Web and exercises on how to build end-to-end, working applications.",
+      "summary": "Learn how to build Single Page Applications, including the basics of Angular 2.0, versions, tools, data binding and filtering",
+      "feature": "20 hours of Instructor-led classes Grasp basic and advanced concepts Learn by Doing",
+      "type": "ONLINE_GROUP",
+      "logo": "",
+      "price": 500,
+      "authorId": 1
+    },
+    {
+      "id": 4,
+      "title": "Angular2",
+      "description": "AngularJS 2.0 is a solution for rapid front-end development. It is easy to grasp and enables one to develop robust applications for projects of any scale. Part of its popularity is its ability to make static Web pages more dynamic thus allowing web designers to add more tools. Organisations are seeing the benefits of adopting Angular js and this has increased the demand for Angular experts.We understand this and hence have designed the Angular JS 2.0 with TypeScript course that will allow you to grasp all the fundamentals of this Angular framework developed by Google. ‘Single Page Apps’ (SPAs) are extremely popular and you will receive practical knowledge and hands on experience needed to develop these complex applications using Angular JS 2.0 with TypeScript.  TypeScript, as the name suggests, is a superset of JavaScript, but is more advanced and allows for easier code fixing and is most suited for large projects due to its Type safety and declarative code features. In this course, you will start from the basics of Angular Js such as Forms, Pipes, and CSS Styling and move on to more complex fundamentals of Routing, Directives, Multi-threaded Web and exercises on how to build end-to-end, working applications.",
+      "summary": "Learn how to build Single Page Applications, including the basics of Angular 2.0, versions, tools, data binding and filtering",
+      "feature": "20 hours of Instructor-led classes Grasp basic and advanced concepts Learn by Doing",
+      "type": "ONLINE_GROUP",
+      "logo": "",
+      "price": 500,
+      "authorId": 2
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "firstName": "Bala Krishna",
+      "lastName": "Ragala",
+      "email": "baluragala@gmail.com",
+      "qualification": "Masters"
+    },
+    {
+      "id": 2,
+      "firstName": "Bala Krishna",
+      "lastName": "Ragala",
+      "email": "baluragala@gmail.com",
+      "qualification": "Masters"
+
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "courseId": 1,
+      "userId": 1,
+      "rating": 5,
+      "comment": "Very helpful and useful."
+    }
+  ]
+}

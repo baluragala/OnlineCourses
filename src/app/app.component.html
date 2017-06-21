@@ -1,1 +1,13 @@
 <zeo-navigation-component></zeo-navigation-component>
+<div class="container">
+  <h1 class="ribbon">
+    <strong class="ribbon-content">Welcome to Online Courses</strong>
+  </h1>
+  <div class="content home-message">
+    <p>Great online courses by community and providers. Please singup and make good learning</p>
+  </div>
+  <div class="top-courses">
+    <h2>Top Courses</h2>
+    <zeo-course-preview *ngFor="let course of topCourses" [course]="course" class="preview"></zeo-course-preview>
+  </div>
+</div>

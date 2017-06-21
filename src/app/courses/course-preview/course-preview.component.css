@@ -1,0 +1,39 @@
+.content {
+  text-align: center;
+  color: white;
+  background-color: teal;
+  width: 200px;
+  height: 250px;
+  border-radius: 20px;
+  position: relative;
+  display: inline-block;
+}
+
+h4 {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.logo {
+  padding-top: 55px;
+}
+
+.logo img {
+  width: 48px;
+  height: 48px;
+}
+
+footer {
+  position: absolute;
+  bottom: 25px;
+  left: 50px;
+}
+
+.details {
+  text-decoration: none;
+  width: auto;
+  padding: 5px 15px 5px 15px;
+
+  color: antiquewhite;
+  background: radial-gradient(darkcyan,cyan)
+}

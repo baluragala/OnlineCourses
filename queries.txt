@@ -1,0 +1,11 @@
+1. Get courses
+http://localhost:3000/courses
+
+2. Get courses details along with author and review
+http://localhost:3000/courses?_expand=author&_embed=reviews
+
+3. Get authors
+http://localhost:3000/authors
+
+3. Get authors along with courses
+http://localhost:3000/authors?_embed=courses
